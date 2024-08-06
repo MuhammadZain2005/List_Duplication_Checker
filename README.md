@@ -90,13 +90,13 @@ Do you want to sort the result? (y/n): y
 The list without duplicates is: [1, 2, 3, 4, 5]
 ```
 
-##Comments
+## Comments
 This program is designed to help you easily remove duplicates from a list of numbers or strings and optionally sort the resulting list.
 
-##License
+## License
 This project is open-source and available under the MIT License.
 
-##Contributing
+## Contributing
 Feel free to contribute by submitting a pull request or opening an issue if you find a bug or have a feature request.
 
 ```bash
